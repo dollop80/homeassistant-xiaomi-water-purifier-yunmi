@@ -18,7 +18,7 @@ The following entities are added to Homeassistant with the help of the component
 ![Screenshot1](https://github.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/blob/master/images/screen1.PNG?raw=true)
 
 ## Installation
-1. Copy *custom_components/water_purifier_yunmi/sensor.py* to **homeassistant/custom_components/water_purifier_yunmi**
+1. Copy the following files: *__init__.py*, *manifest.json*, *sensor.py* to **config/custom_components/water_purifier_yunmi** directory
 2. Determine the IP-addres of your water purifier.
 3. Follow [Retrieving the Access Token](https://home-assistant.io/components/vacuum.xiaomi_miio/#retrieving-the-access-token) guide to get the token of your water purifier
 
