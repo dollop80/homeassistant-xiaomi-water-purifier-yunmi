@@ -1,0 +1,8 @@
+{
+  "domain": "WaterPurifierYunmi",
+  "name": "WaterPurifierYunmi",
+  "documentation": "https://github.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}
