@@ -3,10 +3,6 @@ Yunmi Xiaomi Water Purifier component for Homeassistant.
 Based on https://github.com/bit3725/homeassistant-mi-water-purifier
 
 ![Screenshot1](https://github.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/blob/master/images/screen1.PNG?raw=true)
-![Screenshot2](https://raw.githubusercontent.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/master/images/screen2.png)
-![Screenshot3](https://raw.githubusercontent.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/master/images/screen3.png)
-![Screenshot4](https://raw.githubusercontent.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/master/images/screen4.png)
-![Screenshot5](https://raw.githubusercontent.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/master/images/screen5.png)
 
 ## Installation
 1. Copy *custom_components/water_purifier_yunmi/sensor.py* to **.homeassistant/custom_components/water_purifier_yunmi**.
@@ -40,3 +36,9 @@ water_purifier:
     - sensor.water_used
     - sensor.water_purified
 ```
+
+Some screen shots...
+![Screenshot2](https://github.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/blob/master/images/screen2.PNG?raw=true)
+![Screenshot3](https://github.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/blob/master/images/screen3.PNG?raw=true)
+![Screenshot4](https://github.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/blob/master/images/screen4.PNG?raw=true)
+![Screenshot5](https://github.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/blob/master/images/screen5.PNG?raw=true)
