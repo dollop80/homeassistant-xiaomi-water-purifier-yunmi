@@ -2,7 +2,7 @@
 Yunmi Xiaomi Water Purifier component for Homeassistant.
 Based on https://github.com/bit3725/homeassistant-mi-water-purifier
 
-![Screenshot1](https://raw.githubusercontent.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/master/images/screen1.png)
+![Screenshot1](https://github.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/blob/master/images/screen1.PNG?raw=true)
 ![Screenshot2](https://raw.githubusercontent.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/master/images/screen2.png)
 ![Screenshot3](https://raw.githubusercontent.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/master/images/screen3.png)
 ![Screenshot4](https://raw.githubusercontent.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/master/images/screen4.png)
