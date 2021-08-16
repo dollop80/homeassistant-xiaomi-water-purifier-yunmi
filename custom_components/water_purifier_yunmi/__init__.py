@@ -1,1 +1,1 @@
-"""The Xiaomi Water Purifier integration."""
+"""The example sensor integration."""

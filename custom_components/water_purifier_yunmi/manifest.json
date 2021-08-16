@@ -1,8 +1,10 @@
 {
-  "domain": "WaterPurifierYunmi",
+  "domain": "water_purifier_yunmi",
   "name": "WaterPurifierYunmi",
-  "documentation": "https://github.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi/",
+  "version": "1.0.0",
+  "documentation": "https://github.com/dollop80/homeassistant-xiaomi-water-purifier-yunmi",
   "dependencies": [],
-  "codeowners": [],
-  "requirements": []
+  "codeowners": ["@dollop80"],
+  "requirements": [],
+  "iot_class": "local_polling"
 }

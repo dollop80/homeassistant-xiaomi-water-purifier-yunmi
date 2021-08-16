@@ -7,8 +7,11 @@ from homeassistant.const import (CONF_NAME, CONF_HOST, CONF_TOKEN, )
 from homeassistant.helpers.entity import Entity
 from homeassistant.exceptions import PlatformNotReady
 from miio import Device, DeviceException
+from homeassistant import config_entries
 
 _LOGGER = logging.getLogger(__name__)
+
+DOMAIN = 'water_purifier_yunmi'
 
 RUN_STATUS = {'name': 'Run status', 'key': 'run_status'}
 F1_REMAINING = {'name': 'PPC Filter', 'key': 'f1f', 'days_key': 'f1d'}
