@@ -2,7 +2,7 @@
 import math
 import logging
 
-from homeassistant.const import TEMP_CELSIUS
+from homeassistant.const import UnitOfTemperature
 from homeassistant.const import (CONF_NAME, CONF_HOST, CONF_TOKEN, )
 from homeassistant.helpers.entity import Entity
 from homeassistant.exceptions import PlatformNotReady
@@ -98,7 +98,7 @@ class XiaomiWaterPurifierSensor(Entity):
            self._data_key['key'] is WATER_PURIFIED['key']:
             return 'L'
         if self._data_key['key'] is TEMPERATURE['key']:
-            return TEMP_CELSIUS
+            return UnitOfTemperature.CELSIUS
         if self._data_key['key'] is RINSE['key'] or \
            self._data_key['key'] is RUN_STATUS['key']:
             return ''         
